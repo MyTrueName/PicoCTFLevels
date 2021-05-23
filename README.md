@@ -45,10 +45,21 @@ Nice netcat... - 15 points
 
 It will return ascii list of numbers. Decode it.
 
-picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}
+> picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}
 
 
 ### Level 5
+Static ain't always noise - 20 points
+
+Download two files, one of them is compiled.
+Flag can be found by using *less* and reading it, or by using:
+> bash ltdis.sh static
+It will create decompiled files. Read them.
+
+> picoCTF{d15a5m_t34s3r_f6c48608}
+
+
+
 ### Level 6
 ### Level 7
 ### Level 8
