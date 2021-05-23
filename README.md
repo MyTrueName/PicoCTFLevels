@@ -144,7 +144,9 @@ plumbing - 200 points
 ### Level 17
 mus1c - 300 points
 
-Decode song. No idea how.
+Decode song. Use rockstar language.
+
+> picoCTF{rrrocknrn0113r}
 
 ### Level 18
 flag_shop - 300 points
@@ -156,4 +158,6 @@ Use integer overflow to increase money in account, then buy flag.
 ### Level 19
 mus1c - 300 points
 
-Decode song. No idea how.
+Decode song. Use rockstar language.
+
+> picoCTF{BONJOVI}
