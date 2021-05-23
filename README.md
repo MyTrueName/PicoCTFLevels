@@ -27,9 +27,24 @@ Provide password:
 
 picoCTF{4p0110_1n_7h3_h0us3_67c6cc96}
 
-
 ### Level 3
+Wave a flag - 10 points
+
+Download a file *warm*.
+Change permissions to executable:
+  sudo chmod 777 warm
+Then run:
+  ./warm -h
+ 
+picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
+
 ### Level 4
+Nice netcat... - 15 points
+
+'nc mercury.picoctf.net 35652'
+
+
+
 ### Level 5
 ### Level 6
 ### Level 7
