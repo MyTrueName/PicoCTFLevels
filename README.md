@@ -30,19 +30,22 @@ Provide password:
 ### Level 3
 Wave a flag - 10 points
 
-Download a file *warm*.
+Download a file **warm**.
 Change permissions to executable:
-  sudo chmod 777 warm
+> sudo chmod 777 warm
 Then run:
-  ./warm -h
+> ./warm -h
  
-picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
+> picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
 
 ### Level 4
 Nice netcat... - 15 points
 
-'nc mercury.picoctf.net 35652'
+> nc mercury.picoctf.net 35652
 
+It will return ascii list of numbers. Decode it.
+
+picoCTF{g00d_k1tty!_n1c3_k1tty!_9b3b7392}
 
 
 ### Level 5
