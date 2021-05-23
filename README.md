@@ -21,6 +21,7 @@ Download 3 files:
 
 Run script in terminal:
   python ende.py -d flag.txt.en
+  
 Provide password:
   67c6cc9667c6cc9667c6cc9667c6cc96
 
